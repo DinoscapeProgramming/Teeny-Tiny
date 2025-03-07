@@ -10,10 +10,10 @@ require("@teeny-tiny/dotenv").config(
 ```
 
 
-Values get parsed as json. Use // for comments in the dotenv file. As a perfectly parsable example:
+Values get parsed as json. Use // or # for comments in the dotenv file. As a perfectly parsable example:
 
 ```js
-VERSION="1.0.5" // --> "1.0.5"
+VERSION="1.0.6" // --> "1.0.6"
 NAME="@teeny-tiny/dotenv" // --> "@teeny-tiny/dotenv"
 PRODUCT_NAME="Tenny Tiny Dotenv Parser" // --> "Tenny Tiny Dotenv Parser"
 MATH=< 1 + 1 > // --> 2

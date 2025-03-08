@@ -1,6 +1,6 @@
 {
   "name": "@teeny-tiny/dotenv",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Just a teeny-tiny dotenv parser.",
   "main": "index.js",
   "scripts": {

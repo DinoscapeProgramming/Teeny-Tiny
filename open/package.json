@@ -1,7 +1,7 @@
 {
-  "name": "@teeny-tiny/dotenv",
+  "name": "@teeny-tiny/open",
   "version": "1.0.10",
-  "description": "Just a teeny-tiny dotenv parser.",
+  "description": "Just a teeny-tiny URL opener.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,13 +9,12 @@
   "repository": "https://github.com/DinoscapeProgramming/Teeny-Tiny",
   "homepage": "https://github.com/DinoscapeProgramming/Teeny-Tiny",
   "keywords": [
-    "dotenv",
-    "parser",
-    "environment",
-    "variables",
-    "config",
-    "configuration",
-    "env"
+    "open",
+    "url",
+    "browser",
+    "web",
+    "http",
+    "https"
   ],
   "author": "DinoscapeProgramming",
   "license": "Apache-2.0",

@@ -1,6 +1,6 @@
 {
   "name": "@teeny-tiny/open",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "description": "Just a teeny-tiny URL opener for Node.js.",
   "main": "index.js",
   "scripts": {

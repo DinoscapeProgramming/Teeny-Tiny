@@ -1,4 +1,4 @@
-# A teeny-tiny URL opener for Node.js
+# A teeny-tiny syntax highlighter for JavaScript
 
 ## Importation
 

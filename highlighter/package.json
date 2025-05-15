@@ -1,7 +1,7 @@
 {
-  "name": "@teeny-tiny/open",
-  "version": "1.1.5",
-  "description": "Just a teeny-tiny URL opener for Node.js.",
+  "name": "@teeny-tiny/highlighter",
+  "version": "1.0.0",
+  "description": "Just a teeny-tiny syntax highlighter for JavaScript.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,12 +9,15 @@
   "repository": "https://github.com/DinoscapeProgramming/Teeny-Tiny",
   "homepage": "https://github.com/DinoscapeProgramming/Teeny-Tiny",
   "keywords": [
-    "open",
-    "url",
-    "browser",
-    "web",
-    "http",
-    "https"
+    "highlighter",
+    "syntax",
+    "highlight",
+    "javascript",
+    "js",
+    "code",
+    "color",
+    "terminal",
+    "console"
   ],
   "author": "DinoscapeProgramming",
   "license": "Apache-2.0",

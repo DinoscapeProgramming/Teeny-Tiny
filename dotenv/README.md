@@ -4,6 +4,7 @@
 require("@teeny-tiny/dotenv").config(
   /* Options:
     - path [default = "./.env"]: of the dotenv file
+    - raw [default = null]: raw content; alternative option for passing content
     - executeCode [default = false]: evaluate code contained in < code > brackets; do NOT activate unless necessary
   */
 );
@@ -13,7 +14,7 @@ require("@teeny-tiny/dotenv").config(
 Values get parsed as json. Use // or # for comments in the dotenv file. As a perfectly parsable example:
 
 ```js
-VERSION="1.0.10" // --> "1.0.10"
+VERSION="1.0.10" // --> "1.1.0"
 NAME="@teeny-tiny/dotenv" // --> "@teeny-tiny/dotenv"
 PRODUCT_NAME="Tenny Tiny Dotenv Parser" // --> "Tenny Tiny Dotenv Parser"
 MATH=< 1 + 1 > // --> "2" <-- process.env only accepts strings; requires activated "executeCode" option
